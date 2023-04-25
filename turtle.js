@@ -49,7 +49,7 @@
  */
 
 var _ch_PLAY_VERSION = 1.66;
-var _ch_sourceURL = "https://casual-effects.com/codeheart/1.6/codeheart.min.js";
+var _ch_sourceURL = "codeheart.js";
 
 (function () {
 // Generate the equivalent of play.html
